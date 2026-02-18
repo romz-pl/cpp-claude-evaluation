@@ -1,5 +1,4 @@
-# Evaluation of dynamic polymorphism
-
+# A dynamic polymorphism
 
 ## Claude Prompt
 
