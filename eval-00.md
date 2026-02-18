@@ -5,8 +5,6 @@
 
 In the context of C++23 and C++ Core Guidelines evaluate the following program 
 
-
-=====================
 ```cpp
 #include <print>
 #include <memory>
