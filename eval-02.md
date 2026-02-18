@@ -1,4 +1,4 @@
-# A random number generator wrapper.
+# A random number generator wrapper
 
 ## Claude Prompt
 
