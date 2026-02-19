@@ -62,5 +62,6 @@ They emphasize writing code that is not just correct, but also clear, maintainab
 
 + [A dynamic polymorphism](./eval-00.md)
 + [A global variable with a managed lifetime](./eval-01.md)
++ [A global variable with a managed lifetime in C++23](./eval-04.md)
 + [A random number generator wrapper](./eval-02.md)
 + [Two threads and I/O](./eval-03.md)
