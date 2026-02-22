@@ -66,3 +66,4 @@ They emphasize writing code that is not just correct, but also clear, maintainab
 + [A random number generator wrapper](./eval-02.md)
 + [Two threads and I/O](./eval-03.md)
 + [A producer consumer pattern](./eval-05.md)
++ [Write C++23 code to implement an AVL tree](./eval-06.md)
