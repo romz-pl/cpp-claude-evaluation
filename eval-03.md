@@ -2,6 +2,8 @@
 
 ## Claude Prompt
 
+laude Model: **Sonnet 4.6**
+
 In the context of C++23 and C++ Core Guidelines evaluate the following program 
 ```cpp
 #include <iostream>
