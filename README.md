@@ -56,7 +56,7 @@ They emphasize writing code that is not just correct, but also clear, maintainab
 
 # Evaluated C++ programs
 > [!NOTE]
-> Claude can evaluate any C++ program.
+> **Claude.ai** and **Claude Code** can evaluate any C++ program.
 >
 > See the examples and generated reports
 
