@@ -40,6 +40,8 @@ All rotations fix `parent`, `left`, `right` and `height` fields and update the g
 | `operator==`, `<=>`, `swap`, `erase_if` (free)                 | ✔ |
 | Deduction guides                                               | ✔ |
 
+## The AVL-tree implementation
+
 ```cpp
 // =============================================================================
 // avl_map.hpp  —  A C++23 AVL-tree associative container
@@ -1196,6 +1198,10 @@ avl_map(std::initializer_list<std::pair<const Key,T>>,
     -> avl_map<Key, T, Compare, Allocator>;
 ```
 
+
+## The tests for the AVL-tree implementation
+
+These tests were created by Claude as part of the AVL tree implementation.
 
 ```cpp
 // test_avl_map.cpp  —  Compile and run with:
