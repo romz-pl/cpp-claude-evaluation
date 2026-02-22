@@ -1,9 +1,9 @@
 # C++ Development with [Claude.ai](https://claude.ai) or [Claude Code](https://claude.com/product/claude-code)
 
 > [!NOTE]
-> This project leverages [Claude.ai](https://claude.ai) for C++ development assistance.
+> This project leverages [Claude.ai](https://claude.ai) and or [Claude Code](https://claude.com/product/claude-code) for C++ development assistance.
 > 
-> Claude can help with:
+> Claude Code can help with:
 
 ## Code Development
 + Writing new C++ code with modern standards (C++11/14/17/20/23)
