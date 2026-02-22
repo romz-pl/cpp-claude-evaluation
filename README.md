@@ -1,7 +1,7 @@
 # C++ Development with [Claude.ai](https://claude.ai) or [Claude Code](https://claude.com/product/claude-code)
 
 > [!NOTE]
-> This project leverages [Claude.ai](https://claude.ai) and or [Claude Code](https://claude.com/product/claude-code) for C++ development assistance.
+> This project leverages [**Claude.ai**](https://claude.ai) and or [**Claude Code**](https://claude.com/product/claude-code) for C++ development assistance.
 > 
 > Claude Code can help with:
 
