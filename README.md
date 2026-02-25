@@ -68,3 +68,4 @@ They emphasize writing code that is not just correct, but also clear, maintainab
 + [A producer consumer pattern](./eval-05.md)
 + [Write C++23 code to implement an AVL tree](./eval-06.md)
 + [Evaluation of AVL tree in C++23](./eval-07.md)
++ [A pool allocator adhering to the std::allocator contract](./eval-08.md)
