@@ -4,14 +4,17 @@
 
 Claude Model: **Sonnet 4.6**
 
-Write C++23 code to implement an AVL tree.
-An AVL tree, named after its inventors Adelson-Velsky and Landis, is a type of self-balancing binary search tree. 
-In an AVL tree, the heights of the two child subtrees of any node differ by no more than one.
-The name of the template class must be 'avl_map'.
-The interface of the avl_map template class must be identical to the std::map template class in the STL library.
-The implementation must adhere to the C++ Core Guidelines.
+> [!NOTE]
+> Write C++23 code to implement an AVL tree.
+> An AVL tree, named after its inventors Adelson-Velsky and Landis, is a type of self-balancing binary search tree. 
+> In an AVL tree, the heights of the two child subtrees of any node differ by no more than one.
+> The name of the template class must be 'avl_map'.
+> The interface of the avl_map template class must be identical to the std::map template class in the STL library.
+> The implementation must adhere to the C++ Core Guidelines.
+
 
 ## Architecture
+
 **Node structure** — Each `Node` holds a `std::pair<const Key, T>`, plus `parent`, `left`, `right` pointers and an `int height`. 
 The `const Key` member means key–value data is never moved between nodes during erase; instead, the tree structurally swaps the node-to-erase with its in-order successor before splicing it out.
 
