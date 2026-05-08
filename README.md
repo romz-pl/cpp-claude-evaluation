@@ -60,13 +60,13 @@ They emphasize writing code that is not just correct, but also clear, maintainab
 >
 > See the examples and generated reports
 
-+ [A dynamic polymorphism](./eval-00.md)
-+ [A global variable with a managed lifetime](./eval-01.md)
-+ [A global variable with a managed lifetime in C++23](./eval-04.md)
-+ [A random number generator wrapper](./eval-02.md)
-+ [Two threads and I/O](./eval-03.md)
-+ [A producer consumer pattern](./eval-05.md)
-+ [Write C++23 code to implement an AVL tree](./eval-06.md)
-+ [Evaluation of AVL tree in C++23](./eval-07.md)
-+ [A pool allocator adhering to the std::allocator contract](./eval-08.md)
-+ [Write C++20 code to implement page cache](./eval-09.md)
++ [A dynamic polymorphism](./doc/eval-00.md)
++ [A global variable with a managed lifetime](./doc/eval-01.md)
++ [A global variable with a managed lifetime in C++23](./doc/eval-04.md)
++ [A random number generator wrapper](./doc/eval-02.md)
++ [Two threads and I/O](./doc/eval-03.md)
++ [A producer consumer pattern](./doc/eval-05.md)
++ [Write C++23 code to implement an AVL tree](./doc/eval-06.md)
++ [Evaluation of AVL tree in C++23](./doc/eval-07.md)
++ [A pool allocator adhering to the std::allocator contract](./doc/eval-08.md)
++ [Write C++20 code to implement page cache](./doc/eval-09.md)
